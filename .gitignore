@@ -1,0 +1,16 @@
+# 运行时数据与依赖，不纳入版本控制
+backend/data/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+logs/
+*.pid
+build/
+fluentui-master/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# 凭据
+.env
+.env.*

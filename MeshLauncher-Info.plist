@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleExecutable</key><string>MeshLauncher</string>
+  <key>CFBundleIdentifier</key><string>local.mesh.vllm.launcher</string>
+  <key>CFBundleName</key><string>vllm Mesh</string>
+  <key>CFBundleDisplayName</key><string>vllm Mesh</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>LSMinimumSystemVersion</key><string>13.0</string>
+</dict>
+</plist>
